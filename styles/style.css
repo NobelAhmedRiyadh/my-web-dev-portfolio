@@ -9,6 +9,12 @@ nav{
 .header{
     background-image:url('../assets/Hero-bg.png');
 }
+/* main styte */
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
 /* shared style */
 
 /* nav styles */
@@ -157,4 +163,46 @@ height: 240px;
 }
 .banner-content-02{
     display: flex;
+}
+.info-4{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.cc-content{
+
+}
+.div-000 {
+    /* height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; */
+    margin: 0 auto;
+ }
+
+.info-4 {
+    margin: 0;
+}
+.btn999{
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+background: rgb(255, 255, 255);width: 548px;
+height: 57px;
+}
+.btn9998{
+    width: 120px;
+height: 58px;
+}
+.sub-title-998{
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    border-radius: 16px;
+
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
 }
