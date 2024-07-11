@@ -155,3 +155,6 @@ height: 240px;
 .banner-content{
     gap: 20px;
 }
+.banner-content-02{
+    display: flex;
+}
